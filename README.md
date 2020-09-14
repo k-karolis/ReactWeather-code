@@ -1,4 +1,6 @@
 # Edited by Karolis Kimtys
-# Developed By Ehsan Azizi
-
 GitHub Pages link - https://k-karolis.github.io/ReactWeather/
+
+# Developed By Ehsan Azizi
+https://github.com/esnz/reactweather
+
